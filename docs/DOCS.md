@@ -1069,9 +1069,9 @@ Finally, the `get_layer` method returns a dictionary with several fields. Here i
 > We can create Activation Functions, Regularizers using the same above method also.
 
 Check the following links for some more examples:
-- [Dense layer](https://github.com/imdeepmind/NeuralPy/blob/master/neuralpy/layers/dense.py)
-- [ReLU Activation Function](https://github.com/imdeepmind/NeuralPy/blob/master/neuralpy/activation_functions/relu.py)
-- [Dropout](https://github.com/imdeepmind/NeuralPy/blob/master/neuralpy/regularizers/dropout.py)
+- [Dense layer](https://github.com/mywork-dragon/NeuralPy/blob/master/neuralpy/layers/dense.py)
+- [ReLU Activation Function](https://github.com/mywork-dragon/NeuralPy/blob/master/neuralpy/activation_functions/relu.py)
+- [Dropout](https://github.com/mywork-dragon/NeuralPy/blob/master/neuralpy/regularizers/dropout.py)
 
 ## Building a custom Optimizer
 Steps for making a custom Optimizer is mostly similar to making a custom Layer. So first we need to import a PyTorch optimizer or use a custom PyTorch compatible optimizer.

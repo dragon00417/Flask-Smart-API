@@ -18,9 +18,8 @@ setup(
     author_email="abhishek.chatterjee97@protonmail.com",
     license="MIT",
     project_urls={
-            "Bug Tracker": "https://github.com/imdeepmind/NeuralPy/issues",
             "Documentation": "https://www.neuralpy.xyz/",
-            "Source Code": "https://github.com/imdeepmind/NeuralPy",
+            "Source Code": "https://github.com/mywork0dragon/NeuralPy",
     },
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -39,8 +38,7 @@ setup(
         "neuralpy.loss_functions",
         "neuralpy.models",
         "neuralpy.optimizer",
-        "neuralpy.regularizers",
-        "neuralpy.callbacks"
+        "neuralpy.regularizers"
     ],
     install_requires=["torch"],
     extras_require={

@@ -5,13 +5,9 @@
  A Keras like deep learning library works on top of PyTorch
 </p>
 
-![NeuralPy Build Check](https://github.com/imdeepmind/NeuralPy/workflows/NeuralPy%20Build%20Check/badge.svg)
 ![Maitained](https://img.shields.io/badge/Maitained%3F-Yes-brightgreen)
 ![PyPI - Downloads](https://img.shields.io/pypi/dw/neuralpy-torch?style=flat)
 ![PyPI](https://img.shields.io/pypi/v/neuralpy-torch?style=flat)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/imdeepmind/NeuralPy?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/imdeepmind/NeuralPy?style=flat)
-![GitHub](https://img.shields.io/github/license/imdeepmind/NeuralPy?style=flat)
 
 ## Table of contents:
 - [Table of contents:](#table-of-contents)
@@ -127,21 +123,14 @@ model.predict(X=X_test, batch_size=4)
 ## Documentation
 The documentation for NeuralPy is available at [https://www.neuralpy.xyz/](https://www.neuralpy.xyz/)
 
-## Examples  
-Several example projects in NeuralPy are available at [https://github.com/imdeepmind/NeuralPy-Examples](https://github.com/imdeepmind/NeuralPy-Examples). Please check the above link.
-
-## Blogs and Tutorials
-Following are some links to official blogs and tutorials:
-  - [Introduction to NeuralPy: A Keras like deep learning library works on top of PyTorch](https://medium.com/@imdeepmind/introduction-to-neuralpy-a-keras-like-deep-learning-library-works-on-top-of-pytorch-3bbf1b887561)
-
 ## Support
 If you are facing any issues using NeuralPy, then please raise an issue on GitHub or contact with me. 
 
 Alternatively, you can join the official NeuralPy discord server. Click [here](https://discord.gg/6aTTwbW) to join.
 
 ## Contributing
-Feel free to contribute to this project. If you need some help to get started, then reach me or open a GitHub issue. Check the [CONTRIBUTING.MD](https://github.com/imdeepmind/NeuralPy/blob/master/CONTRIBUTING.md) file for more information and guidelines.
+Feel free to contribute to this project. If you need some help to get started, then reach me or open a GitHub issue. Check the [CONTRIBUTING.MD](https://github.com/mywork-dragon/NeuralPy/blob/master/CONTRIBUTING.md) file for more information and guidelines.
 
 ## License
-[MIT](https://github.com/imdeepmind/NeuralPy/blob/master/LICENSE)
+[MIT](https://github.com/mywork-dragon/NeuralPy/blob/master/LICENSE)
 
